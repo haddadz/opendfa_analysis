@@ -21,3 +21,6 @@ library(kableExtra)
 
 #Required for Easy Color Brewing
 library("RColorBrewer")
+
+#Required for heatmap.2 function
+library("gplots")
